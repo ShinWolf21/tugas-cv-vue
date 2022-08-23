@@ -27,6 +27,14 @@
 </div>
   </div>
   </div>
+  <div class="container3">
+  <div class="img4">
+    <img src="src/assets/wordpress.png" alt="">
+    <div class="w3-light-grey">
+  <div class="w3-container w3-green w3-center" style="width:81%">81%</div>
+</div>
+  </div>
+  </div>
 </template>
 
 <style>
@@ -41,11 +49,15 @@
     padding-top: 20px;
     margin-bottom: 20px;
   }
-  .img1{
+  .img2{
     padding-top: 20px;
     margin-bottom: 20px;
   }
-  .img1{
+  .img3{
+    padding-top: 20px;
+    margin-bottom: 20px;
+  }
+  .img4{
     padding-top: 20px;
     margin-bottom: 20px;
   }

@@ -25,6 +25,7 @@ import SupportIcon from './icons/IconSupport.vue'
    <li>Desain</li>
    <li>Html</li>
    <li>CSS</li>
+   <li>Wordpress</li>
   </WelcomeItem>
  
   <WelcomeItem>
